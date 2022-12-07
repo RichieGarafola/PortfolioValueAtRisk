@@ -15,6 +15,10 @@ Using Python, I will compute VaR using the variance-covariance method.
 
 ---
 
+**File:** [Portfolio VaR](PortfolioValueAtRisk.ipynb)
+
+---
+
 ## Step 1: Import the libraries
 
     pandas
